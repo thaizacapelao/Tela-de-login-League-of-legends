@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/104083691/174149371-57be4f29-7ade-4cee
 
 ## 💻 Projeto:
 
-Tela de login do Jogo League of legends.
+Recriação da tela de login do Jogo League of legends.
 
 ## :hammer_and_wrench: Features:
 
