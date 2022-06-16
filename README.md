@@ -9,6 +9,14 @@ https://user-images.githubusercontent.com/104083691/174149371-57be4f29-7ade-4cee
 
 Tela de login do Jogo League of legends.
 
+## :hammer_and_wrench: Features:
+
+-   [ ] Construção de uma tela de login;
+-   [ ] Pseudo-classes e pseudo-elentos do CSS;
+-   [ ] Revendo seletores avançados;
+-   [ ] Funções de e suas funções ;
+-   [ ] Trabalhando com o flex box;
+
 ## ✨ Linguagens utilizadas:
 
 -   [ ] HTML.
