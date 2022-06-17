@@ -14,7 +14,6 @@ Recriação da tela de login do Jogo League of legends.
 -   [ ] Construção de uma tela de login;
 -   [ ] Pseudo-classes e pseudo-elentos do CSS;
 -   [ ] Revendo seletores avançados;
--   [ ] Funções de e suas funções ;
 -   [ ] Trabalhando com o flex box;
 
 ## ✨ Linguagens utilizadas:
