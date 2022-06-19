@@ -25,4 +25,4 @@ Recriação da tela de login do Jogo League of legends.
 
 ## 🔖 Layout:
 
-Você pode visualizar o layout do projeto através [desse link](https://thaizacapelao.github.io/Tela-de-loguin-League-of-legends/).
+Você pode visualizar o layout do projeto através [desse link](https://thaizacapelao.github.io/Tela-de-login-League-of-legends/).
