@@ -4,7 +4,6 @@ https://user-images.githubusercontent.com/104083691/174149371-57be4f29-7ade-4cee
 
 ![Tela de loguin - League of legends](https://user-images.githubusercontent.com/104083691/174149422-10a5b1af-7785-43dd-b327-ced4cd0e3f71.gif)
 
-
 ## 💻 Projeto:
 
 Recriação da tela de login do Jogo League of legends.
